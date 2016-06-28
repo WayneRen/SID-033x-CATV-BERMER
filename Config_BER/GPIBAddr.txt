@@ -1,0 +1,19 @@
+'*************************************
+'* GPIB Address (1 to 31) Asignment
+'*
+'* [Section]
+'* key_1 = Value
+'* key_2 = Value
+'* .
+'* key_N = value
+'*
+'* Use ' as 1st Char for comment
+'* Section and Key names are not case sensitive 
+'*************************************
+
+[BER_Rx]
+'*** HP8568 or Equiv --- Enter -1 addr if not available
+'*** Model = HP8568, HP8560 or E4442
+GPIB_Addr = 6
+Model = EFA1500
+

@@ -1,0 +1,28 @@
+'*************************************
+'* Station ID
+'*
+'* [Section]
+'* key_1 = Value
+'* key_2 = Value
+'* .
+'* key_N = value
+'*
+'* Use ' as 1st Char for comment 
+'*************************************
+
+
+[Station]
+
+'*** Test Station Name or Number
+Name = BER-1
+
+'*** DBase Type: SQL/ACCESS
+DBase_Type = SQL
+'DBase_Type = ACCESS
+
+'*** Test Location FBN (Fabrinet), LTK (Lightron Korea), LTC (Lightron China), EBB
+'Test_Loc = EBB
+Test_Loc = LEO
+
+
+

@@ -1,0 +1,20 @@
+'*************************************
+'* Offset
+'*
+'* [Section]
+'* key_1 = Value
+'* key_2 = Value
+'* .
+'* key_N = value
+'*
+'* Use ' as 1st Char for comment
+'* Section and Key names are not case sensitive 
+'*************************************
+
+[Offset]
+
+Offset_991 = 1.3
+
+
+
+

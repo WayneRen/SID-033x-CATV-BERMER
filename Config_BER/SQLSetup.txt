@@ -1,0 +1,25 @@
+'*************************************
+'*  Data Base (SQL) set-up File
+'*
+'*  [Section]
+'*  key_1 = Value
+'*  key_2 = Value
+'*
+'*  Use ' as 1st Char for comment
+'*
+'*    [Section] : [ORA], [SQL]
+'*
+'*    Key: Database, Password, Server, User...
+'*
+'*
+'*************************************
+
+
+[SQL]
+'***** SQL Set up
+'Server = CAALHSDB01
+Server = HBLFCSDB01
+Database = OrtelTE
+Password = ortel
+User = netuser
+
